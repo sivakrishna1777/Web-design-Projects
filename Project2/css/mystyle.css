@@ -1,0 +1,37 @@
+.navbar{
+	margin-bottom:0;
+	border-radius:0;
+	background-color:#5E4485;
+	color:#fff;
+	padding:1% 0;
+	font-size:1em;
+	border:0;
+}
+
+.navbar-inverse .navbar-nav .active a,.navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover{
+	color:white;
+	background-color:#000000 ;
+}
+.navbar-brand h1{
+	margin-bottom:10px;
+	color:white;
+	
+}
+.navbar-brand h1:hover{
+	color:black;
+}
+.navbar-inverse .navbar-nav li a{
+	color:#050505;
+}
+
+footer {
+	width:100%;
+	background-color:#5e4485 ;
+	padding:3%;
+	color:#fff ;
+}
+.fa{
+	padding: 20px;
+	font-size:60px;
+	color:#fff;
+}
